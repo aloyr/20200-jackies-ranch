@@ -1,6 +1,11 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <meta property="og:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}" />
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta property="og:description" content="Equipment information for 20200 Jackies Ranch Property" />
+    <meta property="og:image" content="https://aloyr.github.io/20200-jackies-ranch/images/house.jpg"/>
+    <meta property="og:image:secure_url" content="https://aloyr.github.io/20200-jackies-ranch/images/house.jpg"/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     {{ $fonts := resources.Get "sass/fonts.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
