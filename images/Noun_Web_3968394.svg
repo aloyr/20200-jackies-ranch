@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 100 100">
+<metadata>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="Units" value="Points"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="36"/>
+</metadata>
+<defs/>
+<g id="Untitled" vectornator:layerName="Untitled">
+<g opacity="1">
+<path d="M50.8+80.7L50.8+64.7L56.6+64.7L56.4+60.4L50.8+60.4L50.8+46L66.1+46C66.1+47.9+65.9+49.7+65.7+51.5C66+51.6+66.3+51.7+66.6+51.9L69.8+53.4C70.1+51+70.3+48.6+70.3+46.1L85.6+46.1C85.3+50.8+84.2+55.2+82.4+59.3L86.3+61.1C88.7+55.9+90+50.1+90+44C90+21.1+71.4+2.5+48.6+2.5C25.8+2.5+7.2+21.1+7.2+43.9C7.2+66.7+25.8+85.3+48.6+85.3C51.6+85.3+54.5+85+57.3+84.4L57+76.4C55.1+78.6+53+80.1+50.8+80.7ZM85.6+41.7L70.4+41.7C70.3+36.6+69.7+31.8+68.7+27.3L81.8+27.3C84+31.8+85.3+36.6+85.6+41.7ZM79.4+23.1L67.6+23.1C65.8+17.2+63.3+12.2+60.2+8.6C68+11.2+74.8+16.4+79.4+23.1ZM50.8+7.1C55.8+8.5+60.3+14.5+63.1+23.1L50.8+23.1L50.8+7.1ZM50.8+27.4L64.3+27.4C65.4+31.8+66+36.7+66.2+41.8L50.8+41.8L50.8+27.4ZM37.1+8.6C34+12.2+31.5+17.2+29.7+23.1L17.9+23.1C22.5+16.4+29.2+11.2+37.1+8.6ZM15.4+27.4L28.5+27.4C27.5+31.8+26.9+36.7+26.8+41.8L11.6+41.8C11.9+36.6+13.2+31.8+15.4+27.4ZM11.6+46L26.9+46C27+51.1+27.6+56+28.6+60.4L15.4+60.4C13.2+56+11.9+51.2+11.6+46ZM17.9+64.7L29.7+64.7C31.5+70.6+34+75.6+37.1+79.2C29.2+76.5+22.5+71.4+17.9+64.7ZM46.5+80.7C41.4+79.3+37+73.3+34.2+64.7L46.5+64.7L46.5+80.7ZM46.5+60.4L33+60.4C31.9+56+31.3+51.1+31.1+46L46.5+46C46.5+46+46.5+60.4+46.5+60.4ZM46.5+41.7L31.1+41.7C31.3+36.6+31.9+31.7+33+27.3L46.5+27.3C46.5+27.3+46.5+41.7+46.5+41.7ZM46.5+23.1L34.2+23.1C37+14.5+41.5+8.4+46.5+7.1C46.5+7.1+46.5+23.1+46.5+23.1Z" opacity="1" fill="#000000"/>
+<path d="M91.4+68.7L64.6+56.3C63+55.5+61.1+56.8+61.2+58.6L62.4+88.1C62.5+90.3+65.3+91.3+66.7+89.5L72.5+82.1L81.9+96.3C82.7+97.6+84.5+97.9+85.7+97.1L90.6+93.8C91.9+93+92.2+91.2+91.4+90L82+75.8L91.1+73.3C93.1+72.6+93.4+69.7+91.4+68.7Z" opacity="1" fill="#000000"/>
+</g>
+</g>
+</svg>
