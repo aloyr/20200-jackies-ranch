@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    {{ $fonts := resources.Get "sass/fonts.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $fonts.Permalink }}">
+    {{ $stylereset := resources.Get "sass/reset.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $stylereset.Permalink }}">
+    {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+
+    <title>{{ .Title }}</title>
+  </head>
+  <body>
+    <h1>{{ .Title }}</h1>
+    {{ range $type, $map := .Site.Data }}
+    <h2>{{ $type }}</h2>
+    <ul>
+      {{ range $equipment, $attributes := $map }}
+      <li class="equipment">
+        <h3 class="equipment-title">{{ $equipment }}</h3>
+        {{ if .image }}<img class="equipment-image" src="products/{{ .image }}" />{{ end }}
+        <div class="equipment-docs">
+          {{ if .manual }}<a class="equipment-doc" href="manuals/{{ .manual }}" target="_blank"><img src="images/Noun_Book_1970831.svg" /></a>{{ end }}
+          {{ if .url }}<a class="equipment-doc" href="{{ .url }}" target="_blank"><img src="images/Noun_Web_3968394.svg" /></a>{{ end }}
+          {{ if .app }}<a class="equipment-doc" href="{{ .app }}" target="_blank"><img src="images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" /></a>{{ end }}
+        </div>
+        {{ if .info }}<p class="equipment-info">{{ .info }}</p>{{ end }}
+      </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </body>
+</html>
+

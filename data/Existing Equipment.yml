@@ -1,0 +1,55 @@
+Yale Real Living Locks:
+  url: https://us.yalehome.com/Yale/Yale%20US/Real%20Living/installation%20instructions/Yale%20%20DB%20Touch%20Instructions%2023AUG11_Rev%20B.pdf
+  manual: Yale  DB Touch Instructions 23AUG11_Rev B.pdf
+  image: yale-yrd220-nr-real-living-touch-screen-deadbolt-lock.jpg
+  info: These locks can operate stand-alone or it can be controlled by a home automation system like SmartThings. A working code will be sent via Realtor.
+Monoprice Whole Home Audio 10761:
+  url: https://www.monoprice.com/product?p_id=10761
+  manual: 10761_Manual_141028.pdf
+  image: 107611.jpg
+  info: This controls the audio system in the house. It can control up to 12 audio zones, and provide up to 6 distinct audio sources. There are 9 audio zones configured, each with its own control panel.
+TP-link TL-SG2452 Switch:
+  url: https://www.monoprice.com/product?p_id=10761
+  manual: 10761_Manual_141028.pdf
+  image: TL-SG2452.jpg
+  info: This is 1 out of 2 switches that connects all network ports in the house. A fiber loop connects both switches. Access its web interface with "admin" for both user and password.
+TP-Link T1600G-52TS Switch:
+  url: https://www.monoprice.com/product?p_id=10761
+  manual: 10761_Manual_141028.pdf
+  image: 1463490362_1252311.jpg
+  info: This is 1 out of 2 switches that connects all network ports in the house. A fiber loop connects both switches. Access its web interface with "admin" for both user and password.
+Rachio 2nd Generation Sprinkler:
+  url: https://support.rachio.com/en_us/rachio-generation-2-quick-start-guide-rknUDL1YD
+  manual: Rachio Gen 2 Installation_Guide.pdf
+  image: whites-rachio-irrigation-controllers-16zulwb-r-64_1000.jpg
+  app: https://apps.apple.com/us/app/rachio/id864325098
+  info: "This controls the sprinkler system and can be hooked up to a home automation system like SmartThings. It can control up to 16 zones. Current zones are front lawn, left side walkway, left side lawn, backyard living room, backyard master bedroom, backyard gate, right side lawn, backyard master shrubs, and pool trees."
+ADT Alarm:
+  url: https://www.dsc.com/alarm-security-products/SCW9057%20-%20IMPASSA%20Self-Contained%202-Way%20Wireless%20Security%20System/1385
+  manual: SCW9055-SCW9057_v1-2_UM_Eng_R003.pdf
+  image: l_SCW9057.jpg
+  app: https://apps.apple.com/us/app/adt-pulse/id355736423
+  info: All windows and doors are wired with sensors, and all main areas are wired with glass break sensors.
+Honeywell Thermostat Controller:
+  url: https://www.theacoutlet.com/thm6000r7001-honeywell-thm6000r7001-redlink-internet-gateway-8930.html?gclid=Cj0KCQjw--GFBhDeARIsACH_kdaRv6AZcBTnE38N0Gr7UWaiFcAq-wgt0AeVsa7TZKoxF_8yt25jIJUaAod4EALw_wcB
+  manual: THM6000R1002 Manual.pdf
+  image: 12Z044_AS01.jpg
+  app: https://apps.apple.com/us/app/total-connect-comfort/id469517819
+  info: This hooks up the 3 Honeywell thermostats to mobile phones and to home automation systems like SmartThings.
+Samsung Multipurpose Sensors:
+  url: https://www.samsung.com/us/smart-home/smartthings/sensors/samsung-smartthings-multipurpose-sensor-f-mlt-us-2/
+  manual: 1309-quick-start-guide.pdf
+  image: Pdpdefault-f-ss-mult-001-600x600-C1-052016.jpg
+  info: These provide state information to a home automation system like SmartThings. When properly configured, the current sensors should report when entry ways and garage doors are opened and closed. In addition to that, these sensors will also report the temperature at each of their locations. These sensors use the zigbee protocol.
+Jasco Smart Switches:
+  url: https://www.amazon.com/GE-Wireless-Lighting-Control-12724/dp/B006LQFHN2
+  manual: B006Lqfhn2GeJascoZWaveInWallSmartDimmerSwitch12724Manual.607926182.pdf
+  image: 91iDQQbqryL._AC_SY355_.jpg
+  info: These switches can be controlled to home automation systems like SmartThings. They use the z-wave protocol.
+Protheus Pool Robot:
+  url: https://maytronicsus.com/product/residential/proteus-dx5i/
+  manual: Classic11_Classic11P-IOT-EN.pdf
+  image: Proteus-DX5i.jpg
+  app: https://apps.apple.com/us/app/my-dolphin/id861891386
+  info: This robot cleans the pool on a preset schedule, and can be manually operated via app.
+
