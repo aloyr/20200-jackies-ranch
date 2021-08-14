@@ -16,6 +16,15 @@
     <link rel="stylesheet" href="{{ $style.Permalink }}">
 
     <title>{{ .Title }}</title>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-C6J1K600PJ"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-C6J1K600PJ');
+	</script>
   </head>
   <body>
     <h1>{{ .Title }}</h1>
